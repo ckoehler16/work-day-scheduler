@@ -25,3 +25,12 @@
 - THEN the text for that event is saved in local storage
 - WHEN I refresh the page
 - THEN the saved events persist
+
+## Built With
+* HTML
+* CSS
+* Bootstrap https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
+* JavaScript
+* jQuerty https://code.jquery.com/jquery-3.4.1.min.js
+* moment js https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js
+
