@@ -1,7 +1,6 @@
-var currentDay = document.querySelector("#currentDay");
-var currentDate = moment();
-
-currentDay.textContent = currentDate.format("dddd, MMMM Do");
-
+$(document).ready(function() {
+    // dipslay current date in the header
+    $("#currentDay").text(moment().format("dddd, MMMM Do"));
+})
 
 
