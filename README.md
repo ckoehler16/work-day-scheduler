@@ -34,3 +34,7 @@
 * jQuerty https://code.jquery.com/jquery-3.4.1.min.js
 * moment js https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js
 
+## Contribution
+Made with blood, sweat, and tears by Courtney Koehler
+
+### ©️2022 CourtneyKoehler
